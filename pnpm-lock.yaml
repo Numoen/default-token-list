@@ -5,10 +5,14 @@ specifiers:
   '@saberhq/tsconfig': ^2.1.0
   '@types/node': ^18.15.0
   eslint: ^8.36.0
+  fs: 0.0.1-security
   husky: ^8.0.3
   prettier: ^2.8.4
   ts-node: ^10.9.1
   typescript: ^4.9.5
+
+dependencies:
+  fs: 0.0.1-security
 
 devDependencies:
   '@saberhq/eslint-config': 2.1.0_vgl77cfdswitgr47lm5swmv43m
@@ -928,6 +932,10 @@ packages:
   /fs.realpath/1.0.0:
     resolution: {integrity: sha512-OO0pH2lK6a0hZnAdau5ItzHPI6pUlvI7jMVnxUQRtw4owF2wk8lOSabtGDCTP4Ggrg2MbGnWO9X8K1t4+fGMDw==}
     dev: true
+
+  /fs/0.0.1-security:
+    resolution: {integrity: sha512-3XY9e1pP0CVEUCdj5BmfIZxRBTSDycnbqhIOGec9QYtmVH2fbLpj86CFWkrNOkt/Fvty4KZG5lTglL9j/gJ87w==}
+    dev: false
 
   /function-bind/1.1.1:
     resolution: {integrity: sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==}
