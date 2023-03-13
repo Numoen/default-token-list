@@ -4,6 +4,7 @@ import * as fs from "fs/promises";
 import Package from "../package.json";
 import arbitrum from "./tokens/arbitrum.json";
 import celo from "./tokens/celo.json";
+import polygon from "./tokens/polygon.json";
 
 const buildList = async () => {
   const parsed = Package.version.split(".");
@@ -17,7 +18,7 @@ const buildList = async () => {
     },
     tags: {},
     keywords: ["numoen", "default"],
-    tokens: [...celo, ...arbitrum]
+    tokens: [...celo, ...arbitrum, ...polygon]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
