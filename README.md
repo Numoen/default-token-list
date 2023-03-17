@@ -1,7 +1,7 @@
 # @numoen/default-token-list [![Github Actions][gha-badge]][gha]
 
 [gha]: https://github.com/numoen/subgraph/actions
-[gha-badge]: https://github.com/Numoen/subgraph/actions/workflows/ci.yml/badge.svg
+[gha-badge]: https://github.com/Numoen/subgraph/actions/workflows/main.yml/badge.svg
 
 This NPM module and GitHub repo contains the default token list used in the Numoen interface.
 
