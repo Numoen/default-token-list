@@ -38,5 +38,53 @@
     "symbol": "PACT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/21907/small/PACT_Token_Ticker_Blue_2x.png?1640236076"
+  },
+  {
+    "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
+    "name": "Portal Ether",
+    "symbol": "ETH",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETH.png"
+  },
+  {
+    "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+    "name": "Portal USDC from Ethereum",
+    "symbol": "USDCet",
+    "decimals": 6,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_USDCet.png"
+  },
+  {
+    "address": "0x27cd006548dF7C8c8e9fdc4A67fa05C2E3CA5CF9",
+    "name": "PLASTIK Token",
+    "symbol": "PLASTIK",
+    "decimals": 9,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_PLASTIK.png"
+  },
+  {
+    "address": "0xe8537a3d056DA446677B9E9d6c5dB704EaAb4787",
+    "name": "Celo Real",
+    "symbol": "cREAL",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cREAL.png"
+  },
+  {
+    "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
+    "name": "Ubeswap",
+    "symbol": "UBE",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
+  },
+  {
+    "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
+    "name": "Moola",
+    "symbol": "MOO",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_MOO.png"
   }
 ]
