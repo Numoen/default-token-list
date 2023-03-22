@@ -94,5 +94,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/19737/small/logo.png?1635909203"
+  },
+  {
+    "name": "Alongside Market Index",
+    "address": "0xB87904DB461005FC716a6BF9F2d451c33b10b80b",
+    "symbol": "AMKT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22999.png"
   }
 ]
