@@ -21,7 +21,7 @@
     "symbol": "ARB",
     "decimals": 18,
     "chainId": 42161,
-    "logoURI": "https://github.com/rainbow-me/assets/blob/master/blockchains/arbitrum/info/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/rainbow-me/assets/master/blockchains/arbitrum/info/logo.png"
   },
   {
     "name": "Tether USD",
