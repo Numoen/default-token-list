@@ -1,6 +1,6 @@
 {
   "name": "@numoen/default-token-list",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "author": "Kyle Scott <kyle@numoen.com>",
   "description": "",
   "main": "build/numoen-default.tokenlist.json",
