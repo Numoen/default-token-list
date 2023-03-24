@@ -102,5 +102,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22999.png"
+  },
+  {
+    "name": "Quickswap",
+    "address": "0xb5c064f955d8e7f38fe0460c556a72987494ee17",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/25393/small/quick.png?1676951184"
   }
 ]
