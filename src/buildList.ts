@@ -23,7 +23,14 @@ const getTokenColor = async (url: string) => {
 
   const v = new Vibrant(rasterizedIcon);
   const palette = await v.getPalette();
-  return palette.Vibrant?.hex;
+  return {
+    muted: palette.Muted?.hex,
+    vibrant: palette.Vibrant?.hex,
+    lightMuted: palette.LightMuted?.hex,
+    lightVibrant: palette.LightVibrant?.hex,
+    darkMuted: palette.DarkMuted?.hex,
+    darkVibrant: palette.DarkVibrant?.hex,
+  };
 };
 
 const buildList = async () => {
